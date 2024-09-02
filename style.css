@@ -1,0 +1,67 @@
+.a{
+    color: hsl(16, 66%, 50%);
+    text-align: center;
+    font-size: xx-large;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(225, 255, 0);
+    background-color: rgb(34, 255, 226);
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.hi{
+    text-align: center;
+    text-decoration: black;
+    border: 7px;
+    border-radius: 0px;
+    border-style: solid;
+    border-color: cadetblue;
+    font-weight: 600;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.buttonclick{
+    text-align:center;
+    margin-top: 30px;
+    font-size: 50px;
+    border-style: solid;
+    border-width: 10px;
+    color:hex(#00f7ff);
+    border-color:hsla(197, 93%, 53%, 0.841);
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+.si{
+    text-align: center;
+}
+.title{
+    text-align: center;
+    color:hsla(271, 100%, 50%, 0.858);
+    text-decoration: underline;
+    text-decoration-thickness: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.upgrades{
+    padding-left: 3.5cm;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.upgrade1{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.containerforup1{
+    padding-left: 3.35cm;
+}
+.costup1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: xx-large;
+}
+.upgrade1time{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
